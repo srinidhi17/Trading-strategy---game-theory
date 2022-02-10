@@ -1,1 +1,1 @@
-# Trading-strategy---game-theory
+# Trading-strategy-game-theory
